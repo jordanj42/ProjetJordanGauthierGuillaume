@@ -2,7 +2,7 @@ parameters:
     db.host: mysql:host=localhost
     db.name: dbname=gsb
     db.user: root
-    db.mdp: tixymcz
+    db.mdp: qw2ei3
 services:
     pg_gsb_frais.pdo:
         class: Pg\GsbFraisBundle\services\PdoGsb
