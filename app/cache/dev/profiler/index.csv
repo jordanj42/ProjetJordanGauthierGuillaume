@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 5f26c9,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/web/app_dev.php/,1479982266,,200
 77899a,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/web/app_dev.php/accueil,1479982270,,200
 5e6e5f,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/web/app_dev.php/images/favicon.ico,1479982272,9232d3,200
@@ -17,3 +18,18 @@ a5a877,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/
 d8d498,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/web/app_dev.php/saisirfrais,1479982603,,200
 884fbb,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/web/app_dev.php/saisirfrais,1479982606,,200
 fc0f0e,172.19.1.62,GET,http://172.19.1.64/Symfony/ProjetJordanGauthierGuillaume/web/app_dev.php/listefrais,1479982609,,200
+=======
+55737b,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/,1479981390,,200
+001d60,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/accueil,1479981400,,200
+ad21b9,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/images/favicon.ico,1479981403,a1bcae,200
+a1bcae,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/images/favicon.ico,1479981403,,404
+143f98,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/validerconnexion,1479981410,6fe12b,200
+6fe12b,10.0.2.2,POST,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/validerconnexion,1479981410,,500
+44565d,10.0.2.2,POST,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/validerconnexion,1479981779,,200
+5c7d36,10.0.2.2,POST,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/validerconnexion,1479982305,,200
+82c8ff,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/saisirfrais,1479982312,,200
+62090d,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/listefrais,1479982323,,200
+bc0486,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/index.php?action=voirFrais&uc=validerFrais,1479982328,b26bf3,200
+b26bf3,10.0.2.2,GET,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/index.php?action=voirFrais&uc=validerFrais,1479982328,,404
+952d76,10.0.2.2,POST,http://172.19.1.31:8080/ProjetJordanGauthierGuillaume/web/app_dev.php/listefrais,1479982503,,200
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d

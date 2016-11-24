@@ -15,8 +15,13 @@ class __TwigTemplate_ce8eb87f9b50676d97bb49d1df28f70c9e9e69acd89a1599581f6c9e8b5
 
     protected function doDisplay(array $context, array $blocks = array())
     {
+<<<<<<< HEAD:app/cache/dev/twig/75/75024420bb1d6ee0994deaf39c213e19e87e6fe7b37ade9cc26905c25b5f68ac.php
         $__internal_cc5cbed34d14e13c671f14ed2b0e6376d3eec095fb6509467f68e014565204a1 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
         $__internal_cc5cbed34d14e13c671f14ed2b0e6376d3eec095fb6509467f68e014565204a1->enter($__internal_cc5cbed34d14e13c671f14ed2b0e6376d3eec095fb6509467f68e014565204a1_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "@WebProfiler/Profiler/toolbar.css.twig"));
+=======
+        $__internal_55b1d31adf7029fbef4dce3efd39be860f7475b178618e2d872fb67af06a1ff3 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_55b1d31adf7029fbef4dce3efd39be860f7475b178618e2d872fb67af06a1ff3->enter($__internal_55b1d31adf7029fbef4dce3efd39be860f7475b178618e2d872fb67af06a1ff3_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "@WebProfiler/Profiler/toolbar.css.twig"));
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d:app/cache/dev/twig/0c/0c02c7a329c2328d8f49773576107b1f96f1c5b1d4e4811032ba5150990f6836.php
 
         // line 2
         $context["colors"] = array("success" => "#4F805D", "warning" => "#A46A1F", "error" => "#B0413E");
@@ -538,7 +543,11 @@ class __TwigTemplate_ce8eb87f9b50676d97bb49d1df28f70c9e9e69acd89a1599581f6c9e8b5
 }
 ";
         
+<<<<<<< HEAD:app/cache/dev/twig/75/75024420bb1d6ee0994deaf39c213e19e87e6fe7b37ade9cc26905c25b5f68ac.php
         $__internal_cc5cbed34d14e13c671f14ed2b0e6376d3eec095fb6509467f68e014565204a1->leave($__internal_cc5cbed34d14e13c671f14ed2b0e6376d3eec095fb6509467f68e014565204a1_prof);
+=======
+        $__internal_55b1d31adf7029fbef4dce3efd39be860f7475b178618e2d872fb67af06a1ff3->leave($__internal_55b1d31adf7029fbef4dce3efd39be860f7475b178618e2d872fb67af06a1ff3_prof);
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d:app/cache/dev/twig/0c/0c02c7a329c2328d8f49773576107b1f96f1c5b1d4e4811032ba5150990f6836.php
 
     }
 

@@ -511,7 +511,11 @@
     <parameter key="db.host">mysql:host=localhost</parameter>
     <parameter key="db.name">dbname=gsb</parameter>
     <parameter key="db.user">root</parameter>
+<<<<<<< HEAD
     <parameter key="db.mdp">qw2ei3</parameter>
+=======
+    <parameter key="db.mdp">jordan</parameter>
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d
     <parameter key="web_profiler.controller.profiler.class">Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController</parameter>
     <parameter key="web_profiler.controller.router.class">Symfony\Bundle\WebProfilerBundle\Controller\RouterController</parameter>
     <parameter key="web_profiler.controller.exception.class">Symfony\Bundle\WebProfilerBundle\Controller\ExceptionController</parameter>
@@ -1788,7 +1792,11 @@
       <argument type="collection">
         <argument type="service">
           <service class="Symfony\Component\Security\Core\Authentication\Provider\AnonymousAuthenticationProvider" public="false">
+<<<<<<< HEAD
             <argument>5836bcb94cf9d7.28455998</argument>
+=======
+            <argument>5836bad0c53610.11411190</argument>
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d
           </service>
         </argument>
       </argument>
@@ -1917,7 +1925,11 @@
         <argument type="service">
           <service class="Symfony\Component\Security\Http\Firewall\AnonymousAuthenticationListener" public="false">
             <argument type="service" id="security.token_storage"/>
+<<<<<<< HEAD
             <argument>5836bcb94cf9d7.28455998</argument>
+=======
+            <argument>5836bad0c53610.11411190</argument>
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d
             <argument type="service" id="monolog.logger.security" on-invalid="null"/>
             <argument type="service" id="security.authentication.manager"/>
           </service>
@@ -2424,7 +2436,11 @@
       <argument>mysql:host=localhost</argument>
       <argument>dbname=gsb</argument>
       <argument>root</argument>
+<<<<<<< HEAD
       <argument>qw2ei3</argument>
+=======
+      <argument>jordan</argument>
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d
     </service>
     <service id="data_collector.dump" class="Symfony\Component\HttpKernel\DataCollector\DumpDataCollector">
       <tag name="data_collector" id="dump" template="@Debug/Profiler/dump.html.twig" priority="240"/>

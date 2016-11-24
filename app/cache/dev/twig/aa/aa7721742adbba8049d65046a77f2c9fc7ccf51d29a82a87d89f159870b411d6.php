@@ -15,8 +15,13 @@ class __TwigTemplate_3a0526fc58769a654ab87ba223f0c6d6a74f9b009ad4e88a2576a9e64ab
 
     protected function doDisplay(array $context, array $blocks = array())
     {
+<<<<<<< HEAD:app/cache/dev/twig/aa/aa7721742adbba8049d65046a77f2c9fc7ccf51d29a82a87d89f159870b411d6.php
         $__internal_a027801ac5b714c2db1ee09ee0ea40caccbf51ad407a275069cde63377ecda77 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
         $__internal_a027801ac5b714c2db1ee09ee0ea40caccbf51ad407a275069cde63377ecda77->enter($__internal_a027801ac5b714c2db1ee09ee0ea40caccbf51ad407a275069cde63377ecda77_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "@WebProfiler/Icon/symfony.svg"));
+=======
+        $__internal_da6f94f0334c929b63eb169a5077d13128cacea79ff92eae2101e831e8aa7ad0 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_da6f94f0334c929b63eb169a5077d13128cacea79ff92eae2101e831e8aa7ad0->enter($__internal_da6f94f0334c929b63eb169a5077d13128cacea79ff92eae2101e831e8aa7ad0_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "@WebProfiler/Icon/symfony.svg"));
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d:app/cache/dev/twig/76/76f956c144a4cdb1770c5eaf67d9a8b625a50f9074ed8bbc99f0109aa30b0115.php
 
         // line 1
         echo "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" enable-background=\"new 0 0 24 24\" xml:space=\"preserve\">
@@ -33,7 +38,11 @@ class __TwigTemplate_3a0526fc58769a654ab87ba223f0c6d6a74f9b009ad4e88a2576a9e64ab
 </svg>
 ";
         
+<<<<<<< HEAD:app/cache/dev/twig/aa/aa7721742adbba8049d65046a77f2c9fc7ccf51d29a82a87d89f159870b411d6.php
         $__internal_a027801ac5b714c2db1ee09ee0ea40caccbf51ad407a275069cde63377ecda77->leave($__internal_a027801ac5b714c2db1ee09ee0ea40caccbf51ad407a275069cde63377ecda77_prof);
+=======
+        $__internal_da6f94f0334c929b63eb169a5077d13128cacea79ff92eae2101e831e8aa7ad0->leave($__internal_da6f94f0334c929b63eb169a5077d13128cacea79ff92eae2101e831e8aa7ad0_prof);
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d:app/cache/dev/twig/76/76f956c144a4cdb1770c5eaf67d9a8b625a50f9074ed8bbc99f0109aa30b0115.php
 
     }
 

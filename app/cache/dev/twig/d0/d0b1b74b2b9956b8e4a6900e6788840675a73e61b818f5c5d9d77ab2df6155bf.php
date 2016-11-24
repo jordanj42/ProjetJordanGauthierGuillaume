@@ -15,8 +15,13 @@ class __TwigTemplate_f9e23b89f71a5ac42d7356d910cd530894cced03e26d0bfd0e00cef6b00
 
     protected function doDisplay(array $context, array $blocks = array())
     {
+<<<<<<< HEAD:app/cache/dev/twig/d0/d0b1b74b2b9956b8e4a6900e6788840675a73e61b818f5c5d9d77ab2df6155bf.php
         $__internal_2727ae5888fc360e0af851089b70a39c0d1b46d77dbef6c0930458df52939e6a = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
         $__internal_2727ae5888fc360e0af851089b70a39c0d1b46d77dbef6c0930458df52939e6a->enter($__internal_2727ae5888fc360e0af851089b70a39c0d1b46d77dbef6c0930458df52939e6a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "@WebProfiler/Profiler/toolbar.html.twig"));
+=======
+        $__internal_10ed37fd955e0067077831d505e5825ca534e7e289851536a71817cf88ae1d9d = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_10ed37fd955e0067077831d505e5825ca534e7e289851536a71817cf88ae1d9d->enter($__internal_10ed37fd955e0067077831d505e5825ca534e7e289851536a71817cf88ae1d9d_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "@WebProfiler/Profiler/toolbar.html.twig"));
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d:app/cache/dev/twig/13/13eb57a222e40d20aec7487a0f84f766cf8af44b318224e17b468239c7da1473.php
 
         // line 1
         echo "<!-- START of Symfony Web Debug Toolbar -->
@@ -125,7 +130,11 @@ $context["name"], "profiler_markup_version" =>             // line 34
 <!-- END of Symfony Web Debug Toolbar -->
 ";
         
+<<<<<<< HEAD:app/cache/dev/twig/d0/d0b1b74b2b9956b8e4a6900e6788840675a73e61b818f5c5d9d77ab2df6155bf.php
         $__internal_2727ae5888fc360e0af851089b70a39c0d1b46d77dbef6c0930458df52939e6a->leave($__internal_2727ae5888fc360e0af851089b70a39c0d1b46d77dbef6c0930458df52939e6a_prof);
+=======
+        $__internal_10ed37fd955e0067077831d505e5825ca534e7e289851536a71817cf88ae1d9d->leave($__internal_10ed37fd955e0067077831d505e5825ca534e7e289851536a71817cf88ae1d9d_prof);
+>>>>>>> 8965ef2c893385b9f2333255f6db2c0c2353b85d:app/cache/dev/twig/13/13eb57a222e40d20aec7487a0f84f766cf8af44b318224e17b468239c7da1473.php
 
     }
 
